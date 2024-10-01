@@ -3,7 +3,7 @@
 
 A powerful, real-time collaborative document editing platform built with Next.js and Liveblocks. Create, edit, and share documents with others in real-time, complete with commenting, reactions, and seamless collaboration features.
 
-![LiveDocs](./scrennshots/livedocs.png)
+![LiveDocs](./screenshots/livedocs.png)
 
 # Features
 
