@@ -65,10 +65,10 @@ A powerful, real-time collaborative document editing platform built with Next.js
 
 Prerequisites
 
-Node.js 18 or later
-npm or yarn
-A Liveblocks account
-A Clerk account
+- Node.js 18 or later
+- npm or yarn
+- A Liveblocks account
+- A Clerk account
 
 # Installation
 
