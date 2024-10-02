@@ -55,11 +55,11 @@ A powerful, real-time collaborative document editing platform built with Next.js
 
 # Tech Stack
 
-Frontend: Next.js 14
-Real-Time Collaboration: Liveblocks
-UI Components: Lexical Editor, shadcn/ui
-Styling: Tailwind CSS
-Authentication: Clerk
+- Frontend: Next.js 14
+- Real-Time Collaboration: Liveblocks
+- UI Components: Lexical Editor, shadcn/ui
+- Styling: Tailwind CSS
+- Authentication: Clerk
 
 # Getting Started
 
