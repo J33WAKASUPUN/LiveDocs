@@ -74,9 +74,9 @@ Prerequisites
 
 1.Clone the repository
     
-2.Install dependencies for both frontend and backend:
+2.Install dependencies:
 
-    # Install frontend dependencies
+    # Install dependencies
       - cd frontend
       - npm install
       
@@ -94,7 +94,6 @@ Prerequisites
 4.Start the development servers:
 
      # In a new terminal
-        - cd frontend
         - npm run dev
 
 5.Open your browser and navigate to http://localhost:3000 (or the port specified by Vite)
