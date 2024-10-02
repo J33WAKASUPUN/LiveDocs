@@ -77,7 +77,6 @@ Prerequisites
 2.Install dependencies:
 
     # Install dependencies
-      - cd frontend
       - npm install
       
 3.Set up environment variables:
